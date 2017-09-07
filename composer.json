@@ -1,0 +1,35 @@
+{
+  "name": "mohd-aidi/wkhtmltopdf-windows",
+  "description": "Convert html to pdf using webkit (qtwebkit). Static linked windows binary for 64 bit systems.",
+  "keywords": [
+    "pdf",
+    "thumbnail",
+    "snapshot",
+    "wkhtmltopdf",
+    "convert",
+    "binary",
+    "htmltopdf",
+    "htmltoimage"
+  ],
+  "license": "LGPL Version 3",
+  "homepage": "http://wkhtmltopdf.org/",
+  "authors": [
+    {
+      "name": "Mohd Aidi",
+      "email": "aidi@kodewave.my",
+      "homepage": ""
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/mohd-aidi/wkhtmltopdf-windows/issues?state=open"
+  },
+  "minimum-stability": "stable",
+  "bin": [
+    "bin/64bit-0.12.4/wkhtmltoimage.exe",
+    "bin/64bit-0.12.4/wkhtmltopdf.exe"
+  ],
+  "require": {
+  },
+  "suggest": {
+  }
+}
