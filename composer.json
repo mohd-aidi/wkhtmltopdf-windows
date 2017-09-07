@@ -22,7 +22,7 @@
   "support": {
     "issues": "https://github.com/mohd-aidi/wkhtmltopdf-windows/issues?state=open"
   },
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
 
   "require": {
 	"php": ">=5.6.0",
